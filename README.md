@@ -5,7 +5,7 @@
 就算是服务器支持外联还是建议把程序传到服务器上运行，因为代码里加了调用os模块创建plugin目录
 如果是远程的话 利用NTFS ADS来创建plugin目录，成功的几率比较小
 #Usage：
-```root.exe host port user passq```
+```root.exe host port user pass```
 #Response:
 ```
 C:\Users\binghe\Desktop>root.exe 192.168.1.10 3306 root root
